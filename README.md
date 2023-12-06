@@ -2,9 +2,6 @@
 
 visit the live demo using the link https://clone-dee69.web.app/
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
