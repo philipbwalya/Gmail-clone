@@ -2,7 +2,7 @@
 
 visit the live demo using the link https://clone-dee69.web.app/
 
-firebase hosting.
+firebase hosting. 
 
 Take note that it is not responsive and it is a desktop site but you can make it responsive to up your css skills..
 
